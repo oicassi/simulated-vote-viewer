@@ -1,0 +1,11 @@
+.cardExtra {
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px lightslategray;
+    margin: 25px;
+    transition: all 0.5s;
+}
+
+.cardExtra:hover {
+    box-shadow: 0px 0px 7px lightslategray;
+}
